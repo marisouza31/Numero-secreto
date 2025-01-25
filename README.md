@@ -5,9 +5,12 @@
 **Como funciona o jogo?**
 
 O jogo é bem óbvio, você precisa descobrir qual é o número secreto, esse número secreto é gerado pelo próprio código, ou seja serão números aleatórios. 
-Um diferencial do jogo é a API de voz Web Speech, recomendada pela própria Alura, o legal dessa API é que ela pode auxiliar pessoas com deficiência 
+Um diferencial do jogo é a API de voz *Web Speech*, recomendada pela própria Alura, o legal dessa API é que ela pode auxiliar pessoas com deficiência 
 visual.
 
+**Qual foi a minha parte?**
+
+Apliquei a API de voz *Web Speech* no jogo.
 
 </div>
 
