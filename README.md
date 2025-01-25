@@ -1,1 +1,2 @@
-# Numero-secreto
+# Jogo do número secreto
+ib: Alura💙
