@@ -10,7 +10,7 @@ visual.
 
 **Qual foi a minha parte?**
 
-Apliquei a API de voz *Web Speech* no jogo.
+Apliquei a API de voz *Web Speech* ao jogo.
 
 </div>
 
