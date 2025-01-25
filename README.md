@@ -1,5 +1,19 @@
 # Jogo do número secreto
 ib: Alura💙
+##
+
+<div align="justify">
+  
+**Como funciona o jogo?**
+
+O jogo é bem óbvio, você precisa descobrir qual é o número secreto, esse número secreto é gerado pelo prórpio código, ou seja serão números aleatórios. 
+Um diferencial do jogo é a API de voz Web Speech, recomendada pela prórpia Alura, o legal dessa API é que ela pode auxiliar pessoas com deficiência 
+visual.
+
+
+</div>
+
+##
 
 <div align="center">
 <h4>Layout do jogo:</h4>
